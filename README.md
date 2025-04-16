@@ -2,6 +2,8 @@
 
 Um curso para iniciantes aprenderem a trabalhar com versionamento de código e repositórios remotos com Github.
 
+[curso git 2025](https://youtube.com/@teomewhy)
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
