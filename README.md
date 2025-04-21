@@ -4,6 +4,10 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 [curso git 2025](https://youtube.com/@teomewhy)
 
+Além do Yt, tem o site do Teo
+
+[teomewhy.org](https://teomewhy.org/schedule)
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
